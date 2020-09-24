@@ -1,7 +1,7 @@
 ### Hi there 👋
 ___________________________
 <p >  
- <a href="https://www.linkedin.com/in/wislla-nuanska-b124371a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/Wislla%20Nuânska-blue?style=appveyor&logo=linkedin&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/wislla-nuânska-b124371a4"><img alt="LinkedIn" src="https://img.shields.io/badge/Wislla%20Nuânska-blue?style=appveyor&logo=linkedin&logoColor=white"></a>
  <a href="https://wa.me/5588992151416?text=Ol%C3%A1%2C%20visitei%20seu%20Github!%0A%0A"><img alt="WhatsApp" src="https://img.shields.io/badge/Wislla%20Nuânska-brightgreen?style=appveyor&logo=whatsapp&logoColor=white"></a> <a href="mailto:arkikis181@gmail.com"><img alt="Email" src="https://img.shields.io/badge/wislla21%40gmail.com-red?style=appveyor&logo=gmail&logoColor=white"></a>
 </p>
 
